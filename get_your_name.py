@@ -43,3 +43,6 @@ user.elements.append(18)
 user.elements.append(9)
 print user.average()
 
+
+
+
